@@ -2,4 +2,5 @@ go 1.20
 
 use (
 	./maelstrom-raft
+	./6.5840-golabs-2023/src
 )

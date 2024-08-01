@@ -3,3 +3,8 @@
 /.DS_Store
 /.idea
 /.env
+
+pkg/
+api.key
+.api.key.trimmed
+*-handin.tar.gz
